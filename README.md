@@ -1,16 +1,19 @@
 
 # 👋 Hi, I'm Shashank C A
 
+
 ### Software Developer | Java Developer | Full Stack Developer
 
-I'm a Software Developer with hands-on experience in full-stack web development through internships and projects. I enjoy building responsive web applications, developing backend services, integrating REST APIs, and solving real-world problems using software.
+I'm a Software Developer with hands-on experience in full-stack development through internships and projects. I enjoy building responsive web applications, developing backend services, integrating REST APIs, and solving real-world problems through technology. I'm passionate about Java, backend engineering, and AI-powered applications.
 
 - 🎓 B.E. in Information Science and Engineering — Cambridge Institute of Technology, Bengaluru
-- 📊 CGPA: 8.9/10
-- 💼 Software Developer Intern at Samsung R&D Institute Bangalore
-- 💻 Interested in Java, Spring Boot, React.js, Backend Development, and Full Stack Development
-- 🤖 Built an AI-Based Job Recommendation System using Python, Flask, MongoDB, and NLP
-- 🚀 Open to Software Developer, Java Developer, Backend Developer, and Full Stack Developer opportunities
+- 📊 CGPA: 8.86/10
+- 💼 Previously worked as a Software Developer Intern at Samsung R&D Institute Bangalore
+- 🚀 Currently pursuing an SDE Internship at Algorithms Software Engineering Academy (Algorithm 365)
+- 💻 Technical interests: Java, Spring Boot, React.js, Backend Development, and Full Stack Development
+- 🤖 Developed an AI-Based Job Recommendation System using Python, Flask, MongoDB, and NLP
+- 🌐 Built full-stack applications using Java, Spring Boot, React.js, and PostgreSQL
+- 🎯 Open to Software Developer, Java Developer, Backend Developer, and Full Stack Developer opportunities
 
 ---
 
@@ -65,15 +68,24 @@ I'm a Software Developer with hands-on experience in full-stack web development 
 
 ---
 
+
 ## 💼 Experience
 
 ### Software Developer Intern — Samsung R&D Institute Bangalore
 **July 2025 – January 2026**
 
-- Worked on an enterprise Workflow Management System using React.js, ASP.NET, REST APIs, and SQL Server.
+- Worked on an enterprise Workflow Management System using React.js, ASP.NET Core, REST APIs, and SQL Server.
 - Developed reusable UI components and integrated REST API endpoints.
 - Contributed to frontend and backend integration for workflow-related features.
 - Collaborated with developers to build and maintain web application modules.
+
+### Software Development Engineer (SDE) Intern — Algorithms Software Engineering Academy (Algorithm 365)
+**September 2026 – Present**
+
+- Strengthening Java programming, Data Structures and Algorithms, and problem-solving skills through hands-on software development tasks and practical assignments.
+- Applying Object-Oriented Programming (OOP), debugging techniques, and software development best practices.
+- Participating in technical discussions, code reviews, and collaborative learning activities.
+- Improving software engineering skills through practical coding exercises and mentor-guided technical training.
 
 ### Android App Developer Intern — Mind Matrix
 **February 2026 – May 2026**
@@ -82,6 +94,7 @@ I'm a Software Developer with hands-on experience in full-stack web development 
 - Developed application screens and features using Flutter, Firebase, OpenStreetMap, and Gemini AI.
 - Integrated Firebase Authentication, Cloud Firestore, and Firebase Storage.
 - Contributed to wildlife alerts, image management, reporting, and location-based features.
+
 
 ---
 
