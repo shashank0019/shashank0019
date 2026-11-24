@@ -79,13 +79,17 @@ I'm a Software Developer with hands-on experience in full-stack development thro
 - Contributed to frontend and backend integration for workflow-related features.
 - Collaborated with developers to build and maintain web application modules.
 
-### Software Development Engineer (SDE) Intern — Algorithms Software Engineering Academy (Algorithm 365)
-**September 2026 – Present**
 
-- Strengthening Java programming, Data Structures and Algorithms, and problem-solving skills through hands-on software development tasks and practical assignments.
-- Applying Object-Oriented Programming (OOP), debugging techniques, and software development best practices.
-- Participating in technical discussions, code reviews, and collaborative learning activities.
-- Improving software engineering skills through practical coding exercises and mentor-guided technical training.
+### Software Development Engineer (SDE) Intern
+**Algorithms Software Engineering Academy** | September 2026 – Present
+
+- Strengthening Java programming, Data Structures and Algorithms, and problem-solving skills.
+- Practicing daily coding exercises and improving logical thinking through problem visualization and implementation.
+- Following a structured approach: understanding problems, developing brute-force solutions, implementing code, and optimizing logic.
+- Maintaining a separate repository for independent Java and DSA practice.
+
+🔗 **[Java DSA & Algorithms – Coding Practice](https://github.com/shashank0019/Java-DSA-Algorithms)**
+
 
 ### Android App Developer Intern — Mind Matrix
 **February 2026 – May 2026**
