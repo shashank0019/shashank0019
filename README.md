@@ -98,40 +98,45 @@ I'm a Software Developer with hands-on experience in full-stack development thro
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 1. StartupSync — Full Stack Startup Networking Platform
-
-**Technologies:** Java, Spring Boot, React.js, PostgreSQL, JWT, WebSockets
-
-- Built a full-stack platform connecting startup users through role-based functionality.
-- Developed REST APIs and integrated them with responsive React.js interfaces.
-- Implemented JWT-based authentication and real-time chat using WebSockets.
-- Added startup search, filtering, and pagination features.
-
-🔗 [View My GitHub Repositories](https://github.com/shashank0019)
+### 1. StartupSync – Full Stack Startup Networking Platform
+- Built a full-stack platform to connect startup founders and support networking.
+- Developed REST APIs, authentication, real-time chat, and search functionality.
+- Implemented role-based access, filtering, and pagination.
+- **Tech Stack:** Java, Spring Boot, React.js, PostgreSQL, JWT, WebSockets.
+- **GitHub:** [StartupSync](https://github.com/shashank0019/Startupsync)
 
 ### 2. AI-Based Job Recommendation System
+- Developed an AI-powered platform to recommend relevant jobs based on candidate profiles.
+- Implemented resume parsing, skill extraction, and job matching using NLP techniques.
+- Integrated BERT and TF-IDF for job recommendations and ranking.
+- **Tech Stack:** React.js, Python, Flask, MongoDB, BERT, TF-IDF, NLP.
+- **GitHub:** [Job Recommendation System](https://github.com/shashank0019/Job_Recommendation_System)
 
-**Technologies:** React.js, Python, Flask, MongoDB, BERT, TF-IDF, NLP
+### 3. Karunada-Vanya – Wildlife Education and Alert Application
+- Developed a mobile application focused on wildlife education, reporting, and alerts.
+- Integrated Firebase services for authentication, data storage, and image management.
+- Implemented location-based features and Gemini AI integration.
+- **Tech Stack:** Flutter, Firebase, OpenStreetMap, Gemini AI.
+- **GitHub:** [Karunada-Vanya](https://github.com/shashank0019/IntershipPro)
 
-- Developed an AI-powered platform to recommend jobs based on candidate skills, resumes, and interests.
-- Implemented a hybrid recommendation approach using NLP techniques, TF-IDF, BERT, and filtering methods.
-- Integrated resume parsing, skill matching, authentication, and REST APIs.
+### 4. Dream Events – Event Management and Booking Platform
+- Developed a full-stack event management platform with a customer-facing website and admin dashboard.
+- Built REST APIs using Spring Boot and integrated PostgreSQL for database management.
+- Implemented JWT authentication, role-based authorization, booking management, search, and pagination.
+- Integrated Cloudinary for image uploads and Spring Mail for booking notifications.
+- **Tech Stack:** React.js, Java 21, Spring Boot, PostgreSQL, Tailwind CSS, JWT, Cloudinary, Spring Mail.
+- **GitHub:** [Dream Events](https://github.com/shashank0019/dreameventss)
 
-🔗 [View My GitHub Repositories](https://github.com/shashank0019)
+### 5. Smart Hospital Management System
+- Developed a full-stack hospital management system to streamline patient data and hospital operations.
+- Implemented patient record management, appointment scheduling, doctor information, and inventory management.
+- Integrated REST APIs, JWT authentication, and role-based access control for administrators, doctors, and patients.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT.
+- **GitHub:** [Smart Hospital Management System](https://github.com/shashank0019/Smart_Hospital_managemnt_system)
 
-### 3. Karunada-Vanya — Wildlife Education and Alert Application
-
-**Technologies:** Flutter, Firebase, OpenStreetMap, Gemini AI
-
-- Contributed to a mobile application focused on wildlife education and alerts.
-- Integrated authentication, cloud data storage, image handling, reporting, and location-based features.
-- Worked on application screens for wildlife information, alerts, sounds, and safety guidance.
-
-🔗 [View My GitHub Repositories](https://github.com/shashank0019)
-
----
 
 ## 🏆 Certifications
 
